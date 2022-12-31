@@ -11,4 +11,3 @@ THIS PROJECT IS EMBEDDED SYSTEM BASED.
 * Fail safe & RTH
 * Auto land and take off
 * Missions
-* 75 Km tested range
